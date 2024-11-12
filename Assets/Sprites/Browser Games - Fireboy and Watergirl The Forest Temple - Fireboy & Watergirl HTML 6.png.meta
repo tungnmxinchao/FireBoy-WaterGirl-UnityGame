@@ -1,0 +1,5977 @@
+fileFormatVersion: 2
+guid: 5b58fd37751d52044a3b663baefb2ee3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WGHDrop1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bec9bdc3ce0924fbf22a6c69ce99fb
+      internalID: -1323570965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa10f63210f8b34db496bb3fd56e275
+      internalID: 1669308472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cbec56cceba0a4f950e3c931e4c9c9
+      internalID: -2891500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b877a816a4a5e4f4c9d9c9cb6dd1763c
+      internalID: 1548856623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c477d9b2627248964bccff4177548
+      internalID: -1081896952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d50f673b0155c41ba8300f53eecd09
+      internalID: -1228959427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop7
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd128741163804e974be736e602ab5
+      internalID: 1713059251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop8
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1f543f6eed0640962173dc9fbca91
+      internalID: 1615832455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop9
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4e57fe72a6fa488d939c6f967b991
+      internalID: 1227625382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop10
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a14171d8bc964ca2fcbb6fb463b93
+      internalID: -1596883884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHDrop11
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a49dfa6304da441ab1e723742b0027
+      internalID: 89308298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove1
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1937
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18687934e9e842b4f87efdb715e35784
+      internalID: 67156041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove2
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1938
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49439624733e8542acbd9c5fb38b6b4
+      internalID: -16664672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove3
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1939
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9aee3e57f87764d99aeda2f9d83158
+      internalID: -1329472070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1733
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd954b4ed92fa964bb65363e5b4a15b1
+      internalID: 593439675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1732
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a805fc91040645a554ae15d93cf80
+      internalID: -1585999556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1731
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5ba9e9ec64c747a864eb055440f1b
+      internalID: 683461528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1730
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b602096fe1b28ed4ab25218280758cf8
+      internalID: -348235565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1729
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f8b660446d694f8d8f823809928f8
+      internalID: 95382025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove4
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1794
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b186990b291f54e8e570abd5ace31b
+      internalID: 544449253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove5
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1795
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da824ae5d679d96489431b16ff97fac0
+      internalID: 1690021411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHMove6
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1795
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4f1eb4aa0eda4abb55c6abc6cbbc7
+      internalID: 1723379107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyStand
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2af6de43277ee4fa120f57e59b9330
+      internalID: -613484419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1696
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632dc5e92188aff4db6e43c8e3bc7acc
+      internalID: 353874355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_24
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1695
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119683552f5448b45bc85ee2c26816bc
+      internalID: 252666610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_25
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1696
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc191f6c1a371418e87223c717eacf
+      internalID: 32450855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_26
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1656
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0bac16126caaa4583ac4c56481bbf3
+      internalID: 1215277282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1550
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f4e823966d69b49a42ef7d412cad33
+      internalID: -2102573778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBBodyStand
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1550
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a1600bf063c94fab170c99c98477f
+      internalID: -1975789964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1550
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02202119f56a2ce40b89b5b4991b3023
+      internalID: 1293876222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1549
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce759e1ede4c5f6428ae7d9c7a8c04b1
+      internalID: -109535884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1550
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a366b133458f343ab07b170425cc18
+      internalID: -1487700516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1550
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1350b6512e0cdad4c82dc93783a77583
+      internalID: 1877722795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_33
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1612
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387b58bc6d5f3942bee255ac085d5c5
+      internalID: 1775320030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_34
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1612
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ea862c2dcd08488170ba08d647d4b
+      internalID: -2085035946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_35
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1611
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0720f2efc95bc44ac67f3c3b5b6a78
+      internalID: -1613618767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_36
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1611
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f2644996ef4d48abf611848180aa7
+      internalID: -2002132209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78acad4597ade4d4199bb42cc90c8bbd
+      internalID: 930517555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd6be8451bfb740a8050f141f988aa
+      internalID: 633044645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove7
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bacdd2623b5fa4faa5c544922540ec
+      internalID: -79688016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGBodyMove8
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959e321b06020441bf61b3d6d8cfff3
+      internalID: 729244270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582808366654f3d4f8134097679d7931
+      internalID: 1702807314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand2
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50abe7dbcdad6a247b79402f270f912c
+      internalID: -179667836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand3
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d7df2b78b76546969d4a5a60ad49d
+      internalID: -464625060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand4
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d1415e4207f1449fe7357ee7d3f4b
+      internalID: 1670153097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand5
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9263941141194eb9ae6ed221179ec
+      internalID: 841337673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a593459f451ba14d905fa0226760635
+      internalID: -1628693203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8e8bcb874b8b49bb9b80c3efac648
+      internalID: -431131680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ceb808e8108d429a319dfe08d3b72
+      internalID: -2058363554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b1b9b2ae94274f8af585dc2ce79ac
+      internalID: -1426620983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8503fe56b1bd41a48ad84b50e3066
+      internalID: -1117804244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac64828bd7b3c40a6084db4867f556
+      internalID: -778689937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand12
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef99e6922244e9438da8c604de0d088
+      internalID: -595898540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand13
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350dfb565e3ff1448a62870d6c18bed
+      internalID: -1343809226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a673aa684ee2948a99e85d9e1836ee
+      internalID: 1561493618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand15
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d333cb9b5339438589a0b448f9f7e
+      internalID: -193046258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand16
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c764557b05532489b74f603ec85751
+      internalID: -1383452708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand17
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb008aa3ec29011439f54294a6bf46c1
+      internalID: -143859979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand18
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254187ccdfd64b48a25c8cbd2cef170
+      internalID: 2120395961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand19
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59612fed7b78a7840975a986ff27d334
+      internalID: 266180377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand20
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a351bdc5b2a285d4aadb3186a5801d8f
+      internalID: -2085840455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb4d4be96a24464c8841f0d87f107f8
+      internalID: -279507089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d6e4b74b72334d9387cb6366a0fae
+      internalID: 1020633325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d69a5ec039c4d4a9373ffcd3cc3f49
+      internalID: 1482726422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8eb8dbd5ffeb24cab3fef1b076c953
+      internalID: -1257563109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf71097f3b25374aacb71457a6b883b
+      internalID: 1112981497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand26
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8a9a77af31e64393260508ec4630c
+      internalID: -884937181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543587c3db135fb4d849716177693cf7
+      internalID: 394076666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand28
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b44c1a7118c3b4f9e0fe1944ae5ba1
+      internalID: 830568241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand29
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666a0489d6582440a97332bae9560ad
+      internalID: -1926649422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHStand30
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd5d78ad7d2c3e41bc6806528d79784
+      internalID: 1007408129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1078
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d37d80d6a8bf549b79d40643349f46
+      internalID: -1397629486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1077
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2713a44cd7d849abe59ae05ba2ed2
+      internalID: 1867923791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1077
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d158482a935d54693652225771f8be
+      internalID: 573945381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1077
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe0accd656cc74798c99dea60ad849
+      internalID: -1404227956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1076
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755a26d5b2d884a41adebb722bef2b24
+      internalID: -1258505505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1078
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9c5604123616d44ac486fe2359c4e5
+      internalID: -843729228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_77
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1149
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc92c28f8f65644a890344d91668f71
+      internalID: 1452211877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_78
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1149
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f9cc10de49f4a49b39e158b39494b6
+      internalID: -1178919218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_79
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1149
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d259ca7ef9da1409352de1c9128d54
+      internalID: 1697451940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_80
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1149
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfeb167fb64bef41a0528fd7e245c90
+      internalID: 1506151244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_81
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1149
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00327274b3be3704887bd0a02bc80153
+      internalID: 668013497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand7
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1048
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b51a7b0869f149b14a8a138054637
+      internalID: 360820730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand8
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1049
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8b72864fa993418a1de63e29581ad
+      internalID: 1453075970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1049
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df95c10b00c554db8fe5781e17ee9d
+      internalID: 579693926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand10
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1050
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e3c99c1ef84e34dab05d6f291275fc
+      internalID: 693853149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_86
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 976
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f127fe85f86dd043a335070bd82f4c9
+      internalID: 1694517722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 976
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be20a32113e19408e7d955827fd7e0
+      internalID: 648866706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_88
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 976
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae02f34fe14e6549830ee8d4311dc3b
+      internalID: 1035348739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_89
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 976
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b7ebbeb4f2864db6e461f634109c8
+      internalID: 1582484568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_90
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 976
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfb95f1cc61c94eb57abf506b03dc5
+      internalID: -1066803403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 913
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613160618148bb446b6e7575d526f783
+      internalID: 1245345477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 913
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27debe03a6996c84caed4b6cf47f236b
+      internalID: 1082593363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 913
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1164c7b3b82cb449fefc650ddfefd0
+      internalID: -818005685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBHStand14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 912
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1773224ce907a645a1ee55783bdb727
+      internalID: 108046937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 922
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90bf8185dfb2ed4494931e0edb34b7d
+      internalID: 319442019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_96
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 892
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747e368c764dab4384ea10b325e7529
+      internalID: -1897418148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_97
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 892
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7d58bb691625459557555541ccd95
+      internalID: -63746097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_98
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 892
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d3ac6f7aa0b54f9b55608c2463524
+      internalID: -836857785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_99
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 893
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8e239ebe78334287bb20fb11ce430
+      internalID: 2019790822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 725
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f468c7bce1c69e4b941c6dcc5bcabbf
+      internalID: -849254532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 725
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a671802df6f9c4c956531d358a8598
+      internalID: 623612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 725
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa27df8bc60994543a13f7e2a7f9cbf9
+      internalID: 676690987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 751
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e3f6e9a03cde4da1a752280f0f5df
+      internalID: -567036787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 788
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596798d6c49d5d4ab0a62e823b43849
+      internalID: -2121507140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_105
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 758
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2189f0241e64548a9d8266048a7a29
+      internalID: 825325911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 727
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c0b1ea0864da64e94276e159f1b433
+      internalID: 1669391635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 727
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23073b552b0958f41affbe01bce03281
+      internalID: -321727122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump11
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 727
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781ab2be0c0d11040be4b9034b27b69d
+      internalID: -666490857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_109
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 819
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648a1aa6a42d504995ef410706bedf7
+      internalID: -69928276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_110
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 819
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997dfb86adaf5574b9cccc28efa3c487
+      internalID: 762241686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_111
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 818
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8792868273f964fa1d3e27c981af37
+      internalID: -340986855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_112
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 818
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1ad7ff603c0e4186da350795e3939
+      internalID: 1572979619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_113
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 827
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73128efda634ef447a1d9c5e0c64980c
+      internalID: 139867586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_114
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 822
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404ecb2e0c1cf54e888991802e7c49a
+      internalID: -1870899904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_115
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 821
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2272f1e2507014c876b9d8d19bc6f0
+      internalID: -808636680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_116
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 820
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b480151b383ba24881fb407f2e41cd2
+      internalID: -1836114569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_117
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 645
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d0db93e66b234ba1fae13724b8288
+      internalID: 666762104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump4
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6897817acc07dc478c217274f677fa0
+      internalID: -85145506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump5
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7677d126a93294b92f7e5055ed8551
+      internalID: 1376231819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump6
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f9b1d6c461bf4981b6d73223005ab
+      internalID: -920977110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump7
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba53765b4910a4eb345396612f054b
+      internalID: -1784944128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGHJump8
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719273faa3183c94286c90119e8f7a35
+      internalID: -696171846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_123
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 716
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb362123fdf2764e9de20df21973a04
+      internalID: -719316672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 606
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9683a9ed909f4aa52523314440375
+      internalID: 693991415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_125
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 605
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7321a9bdf16a974295e4c8d0d327013
+      internalID: 2122312440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 604
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff65e338060898c438180f659ddf0b15
+      internalID: -1657131843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_127
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 612
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17753f7b0bda02544bfbfb6e7c89429e
+      internalID: -1431214530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_128
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 610
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c18c6658f4d594e9918d01457fe307
+      internalID: -471483302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_129
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 613
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4774a26ad30545817b9959c96eede
+      internalID: -1762894564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_130
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 609
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3fc89e3d99ee40a4944be2ed0938b
+      internalID: 1218204252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_131
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 605
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c01f68e7c280d048897abf21ce4dc2d
+      internalID: 227399189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_132
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 608
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90eebc89b0465842811077954f901aa
+      internalID: 478540876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_133
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 608
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f6f952c8a04474f9751bfdf7669fde
+      internalID: -316185714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_134
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 608
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc65e8c546402d4fb83e6bcb6b0ff3c
+      internalID: 2121569102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_135
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 535
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b78fbb7cbf9542bfe3c2c4f1bbd0e
+      internalID: 1181207402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_136
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 532
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054480f9b54b6e49aac003fdeed8660
+      internalID: -344834616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_137
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 535
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03254f87e1edcb2418afe4a93ad1fa9a
+      internalID: 1845787656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_138
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 535
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c110d7500574ec4fbfbb154dc8897d6
+      internalID: -1103408467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_139
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 537
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32c8b7ac56d7e2478a8136306d5aefa
+      internalID: 1927391648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_140
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 538
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1b2191492743c4a93d433c4262db69
+      internalID: -450043317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_141
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 548
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36db807bc7ab224fb5595210732ca53
+      internalID: 1708417998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_142
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 551
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30e8556c66fd4448ba31a19ff852fe
+      internalID: 1716129088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_143
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 510
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f04df8b9e4b7a4ba3093ca146d9a20
+      internalID: -1128200998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_144
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 514
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2dffe22455d3f459011a3cdcce4b01
+      internalID: 896723645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_145
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 514
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256cd8072d2e5e44cba26e109548799f
+      internalID: 1303324813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_146
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 521
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e51649d55db64d96e18148af7796b
+      internalID: 1560014721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_147
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 526
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4dea8045aaca48bba7f6830a48c47
+      internalID: -804949526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_148
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 516
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4087ef80c3ef56048b15718db59e583f
+      internalID: 1017852619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_149
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 514
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48db7e519b704a04d9c971813e137ab5
+      internalID: 330903751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_150
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 524
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753acf0a4a5c8e441bdba8726cb6f8d9
+      internalID: -556577972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_151
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 521
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43567c24aac9bb04a940eda99f962d8f
+      internalID: 1087766469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_152
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 524
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353dfd52d3832c541af3dcd300630563
+      internalID: 1773231303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_153
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 521
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3271b9df4d51f41a15e6f34430730a
+      internalID: -1101780620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_154
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 516
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd7e5a981459f64ca603c46b28d1499
+      internalID: 568594690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_155
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 519
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1819c37aafa488d46bf961fa9a516019
+      internalID: 348859312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_156
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 515
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1c5870859a3d4db1f3a2f84305363
+      internalID: 222109531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_157
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 516
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44dbc2272c2651409d2508cc3f02b52
+      internalID: 269892036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_158
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 472
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47faa4fcdfbd6409921b50f037655e
+      internalID: 567040367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_159
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 469
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a929b55a01c534aa5cb53dba91d3e1
+      internalID: 79138679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_160
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 471
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a71e869c7127c4ca74b743590dfe78
+      internalID: -861214736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_161
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 472
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625551591ed294842b11cc3e7d08abc7
+      internalID: -176817814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_162
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 473
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1535f1f1a1159a24ebab0965cae88a7e
+      internalID: -1827863155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_163
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 476
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca6f370857a46c4e8456fe8bdbc7001
+      internalID: 525183563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_164
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 480
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06afd2064eb73e34a8c00474b6183319
+      internalID: -990208819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_165
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 476
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc3643876c1c88439c5b3761c72b60b
+      internalID: 598099399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_166
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 478
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86325bbcd25c29a44939d3e471fa7730
+      internalID: -1006076122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_167
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 477
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053406dc0b99d1f4dbadad58928639c3
+      internalID: -2048734384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_168
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 480
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f5693966e4d242a5a6c79e3c97f1c
+      internalID: -465249295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_169
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 480
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3bb8a43def61748864d251487116d1
+      internalID: -1420342419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_170
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 483
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3dc09cc0b69a48a3346f908dc32e1
+      internalID: -1885043661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_171
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 485
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239afe7ec6e8cbd40a50d9b5028d7f0a
+      internalID: 518155926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_172
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 486
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497933ef6e1f0044eb00cd2862c1b0b4
+      internalID: -1359543982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_173
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 484
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188124fd719ecf046b21b9a728d913ae
+      internalID: 1580341526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_174
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 449
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453c802b77ea4c46bdcb99f2dd126fb
+      internalID: -1025689753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_175
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 453
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340ea45b2a46cc4e9501b4a3cf9393c
+      internalID: -1554802813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_176
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 471
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5a991a02d9884ca8d5922bb209885
+      internalID: 1374085590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_177
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 459
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c20da25759a7104080dac8028758621
+      internalID: 1943404072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_178
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 460
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86cc92728fb2c24e83261a6c989c328
+      internalID: 545345652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_179
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 387
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94aedc551b3bd4687f90bb562f5c7d
+      internalID: -1926930484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_180
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 465
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8fc54e4255d354197d03f11463e78d
+      internalID: 134485139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_181
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 450
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513d46e19c924ac4bbc809e01becb06a
+      internalID: -1743984938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_182
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 452
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64c82634abab5499a98fa5504d817f
+      internalID: -351890816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_183
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 456
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81cd375a18c9b84d8e8b0aaf48fb95c
+      internalID: -50807502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_184
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 460
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51369126d85ae4abc66764b89817ab
+      internalID: 303566104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_185
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 455
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda1f2105daee974cb7ff69263d0e2c1
+      internalID: -2066205319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_186
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 452
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095e710f02545a34c86dff67f4eea311
+      internalID: -1723950269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_187
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 453
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543a42d3ac52652449f5c5b1e1d53378
+      internalID: -380329471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_188
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 454
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5a179b7228254b967bae8d1ea316a
+      internalID: -1087480266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_189
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 448
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b995045f60a3748a208c45365236c0
+      internalID: -1868578416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_190
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 397
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8ec5f993859d4aac640e8ae08e3de
+      internalID: 237919593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_191
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 401
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b1cee2ac4bd246803d6262c3d12a5
+      internalID: -69961000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_192
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 403
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb0fd3051bd2a498c70a23005d39e9
+      internalID: -2146927068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_193
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 403
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa400083bd45c439c113de88febd5e
+      internalID: 880503122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_194
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 405
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c3fa8cea54dd4c85ab234b0e60871
+      internalID: -1515998482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_195
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 405
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98cf73b667dc6a45997ebfdcddc8c57
+      internalID: 584981960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_196
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9fe8179d30fc94f8dcaa8ee0cb0471
+      internalID: 2084236067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_197
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 405
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfca848e031919246a201f3b79a4fdc7
+      internalID: 545234421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e60c0e531b264419b6665aa3c71347
+      internalID: -708156070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_199
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 292
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545afc9d6f3a724a8cc54378ccce8f0
+      internalID: -934013762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_200
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 297
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036f57549eb8e24baea3dd64c917880
+      internalID: 2100327762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_201
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 321
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0531a470dbcf2ce459b28fd360e82234
+      internalID: -36444374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_202
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 325
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c068af65118b94bb386d3f4d4eeaaf
+      internalID: 811543479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_203
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 310
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb16eee635e714f814a954909ae4af
+      internalID: 765936786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_204
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 309
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7910a8e1420e9a4fa7b5b7d59bf1cf9
+      internalID: -1456129523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_205
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 313
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5d0f19f07e1e145a6f68a90f80cdda
+      internalID: -1414683090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_206
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 316
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1df23c4a1501644a4a00279c49fc2e
+      internalID: 1003069677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_207
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 320
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a020410df3473d4a9a3a81b15f6e077
+      internalID: 1674428734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_208
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 297
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20ba813bc705d446a01b730e9f9389b
+      internalID: 62014935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_209
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 304
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd567932fb31c047adc9de435852ae0
+      internalID: 2002354330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_210
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 308
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a5ec574d11e14fbd6dec20a49a768
+      internalID: 1624729855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_211
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 266
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebff22ff5e1e46469a5fb5c0533c116
+      internalID: 1570521691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_212
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 269
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc6ad3366e224b4a8bef6643bd05e80
+      internalID: -201169449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_213
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 272
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41a5fd19500b94c8d2c1dd1d647fc2
+      internalID: 611685912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_214
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 275
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cd4e8b297b604d9a206be5fe376c4
+      internalID: 51737332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_215
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 278
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c06019ddc96a4eadcced6dfc747e7
+      internalID: 316208471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_216
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 281
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f30c90369276f41bcf1d1cf460c70c
+      internalID: 1362645738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_217
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 283
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc8417af4b8ff4bb94e928c9598540
+      internalID: -749624654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_218
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 286
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de401e9854bca5a40a8424a8c58ac031
+      internalID: -2061284720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_219
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 288
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e191a410c367548ad3f10773b77fa9
+      internalID: 1524210546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_220
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 291
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b70a8db9175d243827288cf6944660
+      internalID: -422190667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_221
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 293
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc28360c67bb444ab525e1d6205e73e
+      internalID: -559354410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_222
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 295
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89ad1781b0ea24c9c69a83631025b5
+      internalID: -1515264260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_223
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 284
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19828612bf0d0ae46a557e0b46ffb516
+      internalID: 1811117516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5196d93038524b94f7959baf7634a
+      internalID: -1574699268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 181
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f3c0110ba0d740ba45fa191bff997
+      internalID: 906243561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 184
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951d4abbf826a149adbe7ba68455b91
+      internalID: -878858825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 169
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661b49476fc49e4c83b520924a159da
+      internalID: 1151535145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 173
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab3b432774d76a4790f179b273794b8
+      internalID: -1723018860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 176
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d19e14f9e2f034daaa28f10c78be01
+      internalID: 758233917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 180
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe21d4ba76417f4c923ab74446b6736
+      internalID: 4976149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 166
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268e8dca75ab9843a2d8a7c0e27a2e8
+      internalID: 1524983143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 169
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13422922bc6dfb749b26ac2ea524090c
+      internalID: -1468846463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish10
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 126
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc6941416c1bd4689a139f93a6243c
+      internalID: -164924731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 129
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ff119c91483145b86b63c5af2afee
+      internalID: 684457251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish12
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 133
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2147228d01649bd4eae1bb0950e4e71e
+      internalID: -1737201815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish13
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 136
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96102d2a253b394893f18481504cde4
+      internalID: -368157103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish14
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 140
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ac33efa7cd3e44bad39c3f6ea8054
+      internalID: -321342035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish15
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 143
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace46dae463ff944a91a20e53884fb39
+      internalID: -1094711705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish16
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 146
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f4e9159e568c44809b021347cab7f
+      internalID: 971307524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish17
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 150
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17755087a8680242a8572e0466478e8
+      internalID: -442767507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish18
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 153
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c54dbec2510648b3a2c18b6e74741
+      internalID: -1304320966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish19
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 157
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97cdf82c53c5384bba8af18a2b2e1c9
+      internalID: 562110834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish20
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 160
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242d301410a93e4d99ae1091714f479
+      internalID: -1503250030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish21
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 164
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7991b5db9d3fea48837efdf7257e55e
+      internalID: 1485753120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish22
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 167
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4309f5487cfa8a4995fda39cc097a4e
+      internalID: 1024065699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 173
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fb7692c6fcd44786d854d80321dda
+      internalID: 1396579975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_247
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8822d2f2806b544f9ac242f77a74c36
+      internalID: -1139273209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 158
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763c138e21bd174bb5ee57735737b0b
+      internalID: 114917589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_249
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 176
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d852f946c02a941b40b08c2d350f30
+      internalID: -1791490131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_250
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 169
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a310287ba02fd47954d6674b2c0908
+      internalID: -276917698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_251
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 168
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad8112aef8d9148a2fe8fbaf07dd62
+      internalID: 1334354555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25af18981ade094fb3a941908813dfa
+      internalID: -1511159110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 139
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a150f0bdf83a6a418c58fc00f901bb6
+      internalID: 2047393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 145
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88143c2ffbb1f14f8b7dd059d6657ec
+      internalID: -537780181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish26
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 141
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1c72eaa2056a489982e083720dcc6
+      internalID: -918118033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WGFinish27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 145
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74fecd7a5ec81b47a3f64e7624b9b24
+      internalID: -34961019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_257
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 68
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154fea33d79e4d24381e348f9c5ff3aa
+      internalID: -1410338866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_258
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 68
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d35231f45aff4aa2b741c9746ddb7
+      internalID: -542371990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_259
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 70
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2862ce22cd2b2c745b1594c9801ccec3
+      internalID: 391931511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_103: -567036787
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_104: -2121507140
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_105: 825325911
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_109: -69928276
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_11: -1469310000
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_110: 762241686
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_111: -340986855
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_112: 1572979619
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_113: 139867586
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_114: -1870899904
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_115: -808636680
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_116: -1836114569
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_117: 666762104
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_123: -719316672
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_124: 693991415
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_125: 2122312440
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_126: -1657131843
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_127: -1431214530
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_128: -471483302
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_129: -1762894564
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_130: 1218204252
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_131: 227399189
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_132: 478540876
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_133: -316185714
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_134: 2121569102
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_135: 1181207402
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_136: -344834616
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_137: 1845787656
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_138: -1103408467
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_139: 1927391648
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_140: -450043317
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_141: 1708417998
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_142: 1716129088
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_143: -1128200998
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_144: 896723645
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_145: 1303324813
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_146: 1560014721
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_147: -804949526
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_148: 1017852619
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_149: 330903751
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_150: -556577972
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_151: 1087766469
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_152: 1773231303
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_153: -1101780620
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_154: 568594690
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_155: 348859312
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_156: 222109531
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_157: 269892036
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_158: 567040367
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_159: 79138679
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_160: -861214736
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_161: -176817814
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_162: -1827863155
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_163: 525183563
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_164: -990208819
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_165: 598099399
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_166: -1006076122
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_167: -2048734384
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_168: -465249295
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_169: -1420342419
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_170: -1885043661
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_171: 518155926
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_172: -1359543982
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_173: 1580341526
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_174: -1025689753
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_175: -1554802813
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_176: 1374085590
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_177: 1943404072
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_178: 545345652
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_179: -1926930484
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_180: 134485139
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_181: -1743984938
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_182: -351890816
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_183: -50807502
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_184: 303566104
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_185: -2066205319
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_186: -1723950269
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_187: -380329471
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_188: -1087480266
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_189: -1868578416
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_190: 237919593
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_191: -69961000
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_192: -2146927068
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_193: 880503122
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_194: -1515998482
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_195: 584981960
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_196: 2084236067
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_197: 545234421
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_198: -708156070
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_199: -934013762
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_200: 2100327762
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_201: -36444374
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_202: 811543479
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_203: 765936786
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_204: -1456129523
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_205: -1414683090
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_206: 1003069677
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_207: 1674428734
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_208: 62014935
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_209: 2002354330
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_210: 1624729855
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_211: 1570521691
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_212: -201169449
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_213: 611685912
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_214: 51737332
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_215: 316208471
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_216: 1362645738
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_217: -749624654
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_218: -2061284720
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_219: 1524210546
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_220: -422190667
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_221: -559354410
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_222: -1515264260
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_223: 1811117516
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_23: 353874355
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_24: 252666610
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_246: 1396579975
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_247: -1139273209
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_249: -1791490131
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_25: 32450855
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_250: -276917698
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_251: 1334354555
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_257: -1410338866
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_258: -542371990
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_259: 391931511
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_26: 1215277282
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_27: -2102573778
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_33: 1775320030
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_34: -2085035946
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_35: -1613618767
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_36: -2002132209
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_77: 1452211877
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_78: -1178919218
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_79: 1697451940
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_80: 1506151244
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_81: 668013497
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_86: 1694517722
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_87: 648866706
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_88: 1035348739
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_89: 1582484568
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_90: -1066803403
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_95: 319442019
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_96: -1897418148
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_97: -63746097
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_98: -836857785
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_99: 2019790822
+      FBBodyStand: -1975789964
+      FBHStand1: -1397629486
+      FBHStand10: 693853149
+      FBHStand11: 1245345477
+      FBHStand12: 1082593363
+      FBHStand13: -818005685
+      FBHStand14: 108046937
+      FBHStand2: 1867923791
+      FBHStand3: 573945381
+      FBHStand4: -1404227956
+      FBHStand5: -1258505505
+      FBHStand6: -843729228
+      FBHStand7: 360820730
+      FBHStand8: 1453075970
+      FBHStand9: 579693926
+      WGBodyMove1: 1293876222
+      WGBodyMove2: -109535884
+      WGBodyMove3: -1487700516
+      WGBodyMove4: 1877722795
+      WGBodyMove5: 930517555
+      WGBodyMove6: 633044645
+      WGBodyMove7: -79688016
+      WGBodyMove8: 729244270
+      WGBodyStand: -613484419
+      WGFinish1: -1574699268
+      WGFinish10: -164924731
+      WGFinish11: 684457251
+      WGFinish12: -1737201815
+      WGFinish13: -368157103
+      WGFinish14: -321342035
+      WGFinish15: -1094711705
+      WGFinish16: 971307524
+      WGFinish17: -442767507
+      WGFinish18: -1304320966
+      WGFinish19: 562110834
+      WGFinish2: 1524983143
+      WGFinish20: -1503250030
+      WGFinish21: 1485753120
+      WGFinish22: 1024065699
+      WGFinish23: 114917589
+      WGFinish24: 2047393657
+      WGFinish25: -1511159110
+      WGFinish26: -918118033
+      WGFinish27: -34961019
+      WGFinish28: -537780181
+      WGFinish3: -1468846463
+      WGFinish4: 1151535145
+      WGFinish5: -1723018860
+      WGFinish6: 758233917
+      WGFinish7: 4976149
+      WGFinish8: 906243561
+      WGFinish9: -878858825
+      WGHDrop1: -1323570965
+      WGHDrop10: -1596883884
+      WGHDrop11: 89308298
+      WGHDrop2: 1669308472
+      WGHDrop3: -2891500
+      WGHDrop4: 1548856623
+      WGHDrop5: -1081896952
+      WGHDrop6: -1228959427
+      WGHDrop7: 1713059251
+      WGHDrop8: 1615832455
+      WGHDrop9: 1227625382
+      WGHJump1: -849254532
+      WGHJump10: -321727122
+      WGHJump11: -666490857
+      WGHJump2: 623612855
+      WGHJump3: 676690987
+      WGHJump4: -85145506
+      WGHJump5: 1376231819
+      WGHJump6: -920977110
+      WGHJump7: -1784944128
+      WGHJump8: -696171846
+      WGHJump9: 1669391635
+      WGHMove1: 67156041
+      WGHMove10: -348235565
+      WGHMove11: 95382025
+      WGHMove2: -16664672
+      WGHMove3: -1329472070
+      WGHMove4: 544449253
+      WGHMove5: 1690021411
+      WGHMove6: 1723379107
+      WGHMove7: 593439675
+      WGHMove8: -1585999556
+      WGHMove9: 683461528
+      WGHStand1: 1702807314
+      WGHStand10: -1117804244
+      WGHStand11: -778689937
+      WGHStand12: -595898540
+      WGHStand13: -1343809226
+      WGHStand14: 1561493618
+      WGHStand15: -193046258
+      WGHStand16: -1383452708
+      WGHStand17: -143859979
+      WGHStand18: 2120395961
+      WGHStand19: 266180377
+      WGHStand2: -179667836
+      WGHStand20: -2085840455
+      WGHStand21: -279507089
+      WGHStand22: 1020633325
+      WGHStand23: 1482726422
+      WGHStand24: -1257563109
+      WGHStand25: 1112981497
+      WGHStand26: -884937181
+      WGHStand27: 394076666
+      WGHStand28: 830568241
+      WGHStand29: -1926649422
+      WGHStand3: -464625060
+      WGHStand30: 1007408129
+      WGHStand4: 1670153097
+      WGHStand5: 841337673
+      WGHStand6: -1628693203
+      WGHStand7: -431131680
+      WGHStand8: -2058363554
+      WGHStand9: -1426620983
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

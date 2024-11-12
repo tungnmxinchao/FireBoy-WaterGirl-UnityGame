@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WG
+  - WGFinish
+  - FB
+  - PaddleWhite
+  - FireTrap
+  - WaterTrap
+  - PoisonTrap
+  - WiperRight
+  - WiperLeft
+  - BarBot
+  - Block
+  - BarUp
+  - Btn
+  - Rock
+  - BtnBot
+  - BtnUp
+  - FDiamond
+  - WDiamond
+  - Map
+  - TriggerAreaMix
+  - TriggerGreenGoo
+  - TriggerStart
+  - TriggerSwiper
+  - TriggerButton
+  - TriggerBlock
+  - TriggerGate
+  - Panel
+  - rubyRed
+  - rubyBlue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Charater
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
